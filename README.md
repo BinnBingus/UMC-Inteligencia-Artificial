@@ -33,5 +33,5 @@ Os 50 exercícios cobrem a trilha fundamental de lógica em Python necessária p
 
 ## 🧑‍💻 Autor
 
-*   **Fernando Gabriel Arakawa**
+*   **Fernando Gabriel Arakawa de Souza**
 *   Estudante na UMC (Universidade Mogi das Cruzes)
